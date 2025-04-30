@@ -1,4 +1,4 @@
-# Université Côte d'AZur - IT University
+# Université Côte d'Azur - IT University
 
 ## Master MBDS
 
